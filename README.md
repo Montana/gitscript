@@ -9,4 +9,4 @@ Then cd into it, and run
 Enjoy. 
 
 
-Written by <a href= "http://www.montanamendy.com">Montana Mendy>.
+Written by <a href= "http://www.montanamendy.com">Montana Mendy.
