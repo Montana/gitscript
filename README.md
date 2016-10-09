@@ -7,3 +7,6 @@ Then cd into it, and run
 <pre>chmod 777 gitscript.sh</pre> 
 
 Enjoy. 
+
+
+Written by <a href= "http://www.montanamendy.com>Montana Mendy>.
